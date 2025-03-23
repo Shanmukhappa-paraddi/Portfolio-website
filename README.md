@@ -29,8 +29,7 @@ Edit
 │── index.html          # Main HTML file  
 │── styles.css          # CSS styles  
 │── script.js           # JavaScript functionality  
-│── assets/             # Images and media files  
-│── projects/           # Project-related pages  
+│── assets/             # Images and media files   
 │── README.md           # Project documentation  
 🚀 How to Run Locally
 Clone the repository:
